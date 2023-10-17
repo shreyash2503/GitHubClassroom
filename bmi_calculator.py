@@ -4,7 +4,6 @@ def calculate_bmi(height, weight):
     pass
 
 def main():
-    # Write your code here
     # Input height and weight from the user
     
     
